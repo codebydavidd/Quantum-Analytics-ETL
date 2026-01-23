@@ -1,5 +1,7 @@
 <h1 align="center"> Quantum Analytics ⚛️</h1>
 
+![Imagem do projeto finalizado](prints/projeto.png)
+
 ## 💻 Sobre o projeto
 
 Projeto de **Engenharia de Dados** focado na construção de um pipeline ETL (Extract, Transform, Load) automatizado. O objetivo é unificar, limpar e estruturar dados fragmentados de e-commerce (Olist) para criar uma base sólida e confiável para análises de Business Intelligence.
