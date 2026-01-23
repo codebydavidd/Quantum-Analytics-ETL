@@ -2,6 +2,7 @@ import pandas as pd
 import os
 import time
 
+![Imagem do projeto finalizado](prints/projeto.jpg)
 
 # O script procura a pasta 'data' automaticamente no mesmo local onde ele está salvo
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -65,3 +66,4 @@ def processar_dados():
 if __name__ == "__main__":
 
     processar_dados()
+
